@@ -1,10 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
 import React, { Component } from 'react';
 import {Text, View, ScrollView, StyleSheet, TouchableHighlight} from 'react-native';
 import formatTime from 'minutes-seconds-milliseconds';
